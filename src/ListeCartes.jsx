@@ -7,7 +7,7 @@ export default function ListeCartes(){
         <section className="ListeCartes">
             <div className="cartes">
                 {
-                    lesCartes.map(p => <Cartes key={p.id} titre={p.titre} modif={p.modif} couleur={p.couleur}/>)
+                    lesCartes.map(p => <Cartes key={p.id} titre={p.titre} modif={p.modif} couleur={p.couleur} img={p.img}/>)
                 }
             </div>
         </section>

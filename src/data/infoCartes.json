@@ -3,43 +3,50 @@
         "id": "1",
         "titre": "JavaScript",
         "modif": "3 février 2022",
-        "couleur": "#000"
+        "couleur": "#000",
+        "img": "images/background1.png"
     },
     {
         "id": "2",
         "titre": "Cadriciels",
         "modif": "13 février 2022",
-        "couleur": "#016500"
+        "couleur": "#016500",
+        "img": "images/background2.png"
     },
     {
         "id": "3",
         "titre": "Firebase",
         "modif": "11 janvier 2022",
-        "couleur": "#ff8c00"
+        "couleur": "#ff8c00",
+        "img": "images/background3.png"
     },
     {
         "id": "4",
         "titre": "GraphQL",
         "modif": "23 février 2021",
-        "couleur": "#aa0000"
+        "couleur": "#aa0000",
+        "img": "images/background4.png"
     },
     {
         "id": "5",
         "titre": "Deisgn UI & UX",
         "modif": "19 mai 2021",
-        "couleur": "#7b0af2"
+        "couleur": "#7b0af2",
+        "img": "images/background5.png"
     },
     {
         "id": "6",
         "titre": "React",
         "modif": "14 février 2022",
-        "couleur": "#60dafb"
+        "couleur": "#60dafb",
+        "img": "images/background6.png"
     },
     {
         "id": "7",
         "titre": "Outils JavaScript",
         "modif": "23 décembre 2021",
-        "couleur": "#36e798"
+        "couleur": "#36e798",
+        "img": "images/background7.png"
     }
     
 ]
