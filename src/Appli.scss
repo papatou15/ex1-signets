@@ -1,0 +1,19 @@
+.Appli{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 100vh;
+
+    & .addIcon{
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        margin: 0 30px 30px 0;
+        transform: scale(2.5);
+        transition: all 0.15s ease-in-out;
+        &:hover{
+            transform: scale(3);
+            cursor: pointer;
+        }
+    }
+}

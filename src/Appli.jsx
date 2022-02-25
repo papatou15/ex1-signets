@@ -1,9 +1,19 @@
 import './Appli.scss';
+import Header from './Header';
+import ListeCartes from './ListeCartes.jsx';
+import AddCircleIcon from '@mui/icons-material/AddCircle';
 
-export default function Appli() {
+function Appli() {
   return (
     <div className="Appli">
-        Gabarit de base d'une Application React
+      <Header />
+      <ListeCartes />
+      <div className="addIcon">
+        <AddCircleIcon />
+      </div>
     </div>
   );
+  
 }
+
+export default Appli;

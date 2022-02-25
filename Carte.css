@@ -1,0 +1,21 @@
+.carte {
+  width: 250px;
+  height: 300px;
+  background-color: black;
+  color: white;
+}
+
+.basCarte {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.basCarte h2 {
+  margin: 0;
+}
+
+.basCarte p {
+  margin: 0;
+}
+/*# sourceMappingURL=Carte.css.map */
